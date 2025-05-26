@@ -1,5 +1,5 @@
 # Auto-login-Campus-network-for-ECJTU
-花轿校园网自动登录脚本
+花椒校园网自动登录脚本
 
 # 使用说明
 此脚本用于自动登录华东交通大学校园网
