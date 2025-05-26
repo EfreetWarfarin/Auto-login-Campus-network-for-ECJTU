@@ -1,9 +1,13 @@
 # Auto-login-Campus-network-for-ECJTU
 花椒校园网自动登录脚本
+由于我的两台电脑都由于未知原因，无法在校园网登录界面使用记住密码功能，于是在某个夜晚，实现了这个自动登录脚本。
 
 # 使用说明
 此脚本用于自动登录华东交通大学校园网
-- 1.请将此脚本导入**油猴插件(tampermonkey)**，你也可以新建一个，然后把代码粘贴进去。
+- 1.请将此脚本导入**油猴插件(tampermonkey)**，亦或新建一个脚本，然后把代码粘贴进去。
+  这是参考  
+  -- [`油猴插件安装`](https://blog.csdn.net/qq_39201211/article/details/146199386?fromshare=blogdetail&sharetype=blogdetail&sharerId=146199386&sharerefer=PC&sharesource=weixin_72139972&sharefrom=from_link)
+  --[`添加脚本`](https://get.qiaobuqiao.com/post-1356)
 - 2.请在脚本中配置以下参数
     ```javascript
     // 替换成你的账号
